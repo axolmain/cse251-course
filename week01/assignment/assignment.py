@@ -21,6 +21,12 @@ Instructions:
 - You can create other functions if needed.
 - No global variables.
 
+GRADE JUSTIFICATION:
+I believe my submission meets category 4 (meets requirements) because, to the best of my knowledge, it fulfills
+and follows all the rules stated in the instructions for this assignment. I used the reading and some youtube to
+better understand python threading and locks, and after checking my code with the new information I learned I am
+still confident that this submission falls in category 4.
+
 """
 
 import math
